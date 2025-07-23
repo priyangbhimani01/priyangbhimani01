@@ -1,16 +1,84 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Priyang Bhimani</h1>
+<h3 align="center">Computer Science & AI Student | ML Enthusiast | Full Stack Explorer</h3>
 
-<!--
-**priyangbhimani01/priyangbhimani01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyangbhimani01&label=Profile%20views&color=0e75b6&style=flat" alt="priyangbhimani01" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+🎓 Studying **Computer Science & Artificial Intelligence** at Technische Hochschule Ingolstadt, Germany 🇩🇪  
+🤖 Passionate about **Machine Learning**, **Full Stack Development**, and solving complex data problems  
+🛠 Background in **Neural Networks, NLP, AI Algorithms**, and real-world software engineering  
+📬 Reach Me: **priyangbhimani01@gmail.com**  
+🌐 Portfolio Website: _Coming Soon_  
+
+---
+
+### 💼 Tech Stack
+
+**Languages:**  
+`Python` `Java` `C++` `JavaScript` `PHP` `SQL` `HTML/CSS`
+
+**Tools & Frameworks:**  
+`Flask` `TensorFlow` `PyTorch` `OpenCV` `Pandas` `NumPy` `Docker` `Git` `Bash` `Linux`  
+`PowerBI` `CI/CD Pipelines` `REST API` `Altair` `Sklearn` `Neo4j` `MongoDB` `PostgreSQL`
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎵 MP3 Player [🔗 GitHub](https://github.com/priyangbhimani01/MP3_Player)
+JavaFX-powered MP3 player with full audio controls, custom GUI, unit testing via JUnit, and playlist management.
+
+#### 🛒 Web Shop [🔗 GitHub](https://github.com/priyangbhimani01/WebShop)
+Front-end grocery e-commerce site with real-time cart logic, JavaScript interactivity, and dynamic PHP back-end.
+
+#### 📚 Library Management System [🔗 GitHub](https://github.com/priyangbhimani01/SQL_Library_management)
+Full-stack CRUD system using Flask + PostgreSQL + Neo4j + MongoDB. Real-time update logic with Gemini API integration.
+
+#### 🧠 Image Classification [🔗 GitHub](https://github.com/priyangbhimani01/Object_Detection_Prediction.git)
+CNN-based classification model using TensorFlow; optimized using dropout, batch norm, and backpropagation.
+
+#### 🚘 Radar-Camera Fusion with YOLOv3 *(Coming Soon)*  
+Sensor fusion system trained on nuScenes dataset. Combined radar + image channels using custom YOLO input adaptation.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyangbhimani01&show_icons=true&theme=tokyonight" alt="Priyang's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyangbhimani01&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📚 Coursework Highlights
+
+- **Data Structures & Algorithms** – Efficient coding & complexity analysis  
+- **AI Algorithms** – Regression, Classification, CNNs, RNNs  
+- **Natural Language Processing** – BoW, TF-IDF, embeddings  
+- **Data Visualization & Processing** – Clustering, Altair, Pandas  
+- **Web Tech & Databases** – RESTful APIs, SQL, MongoDB, Neo4j, Docker  
+- **Software Engineering** – UML, Agile, Testing, Versioning
+
+---
+
+### 💬 Personal Motto
+
+> “Data is the new oil, but insights are the refined fuel.  
+> I turn raw numbers into meaningful, intelligent decisions.”
+
+---
+
+### 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/priyangbhimani01)  
+📫 Email: **priyangbhimani01@gmail.com**
+
+---
