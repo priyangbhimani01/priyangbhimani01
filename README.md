@@ -10,8 +10,8 @@
 ### 🧠 About Me
 
 🎓 Studying **Computer Science & Artificial Intelligence** at Technische Hochschule Ingolstadt, Germany 🇩🇪  
-🤖 Passionate about **Software development**, **Machine Learning**, **Turning Data into Decisions**, **Full Stack Thinker**, and solving complex data problems  
-🛠 Background in **Neural Networks, NLP, AI Algorithms**, and real-world software engineering  
+🤖 Passionate about **Software development**, **Machine Learning**, **Turning Data into Decisions**, **Full Stack Thinker** and solving complex data problems  
+🛠 Background in **Neural Networks, NLP, AI Algorithms** and real-world software engineering  
 📬 Reach Me: **priyangbhimani01@gmail.com**  
 🌐 Portfolio Website: _Coming Soon_  
 
@@ -31,16 +31,16 @@
 ### 🚀 Featured Projects
 
 #### 🎵 MP3 Player [🔗 GitHub](https://github.com/priyangbhimani01/MP3_Player)
-JavaFX-powered MP3 player with full audio controls, custom GUI, unit testing via JUnit, and playlist management.
+JavaFX-powered MP3 player with full audio controls, custom GUI, unit testing via JUnit and playlist management.
 
 #### 🛒 Web Shop [🔗 GitHub](https://github.com/priyangbhimani01/WebShop)
-Front-end grocery e-commerce site with real-time cart logic, JavaScript interactivity, and dynamic PHP back-end.
+Front-end grocery e-commerce site with real-time cart logic, JavaScript interactivity and dynamic PHP back-end.
 
 #### 📚 Library Management System [🔗 GitHub](https://github.com/priyangbhimani01/SQL_Library_management)
 Full-stack CRUD system using Flask + PostgreSQL + Neo4j + MongoDB. Real-time update logic with Gemini API integration.
 
 #### 🧠 Image Classification [🔗 GitHub](https://github.com/priyangbhimani01/Object_Detection_Prediction.git)
-CNN-based classification model using TensorFlow; optimized using dropout, batch norm, and backpropagation.
+CNN-based classification model using TensorFlow; optimized using dropout, batch norm and backpropagation.
 
 #### 🚘 Radar-Camera Fusion with YOLOv3 *(Coming Soon)*  
 Sensor fusion system trained on nuScenes dataset. Combined radar + image channels using custom YOLO input adaptation.
@@ -51,8 +51,6 @@ Sensor fusion system trained on nuScenes dataset. Combined radar + image channel
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyangbhimani01&show_icons=true&theme=tokyonight" alt="Priyang's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyangbhimani01&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -78,7 +76,6 @@ Sensor fusion system trained on nuScenes dataset. Combined radar + image channel
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/priyang-bhimani-2217b0275)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/priyangbhimani01)  
 📫 Email: **priyangbhimani01@gmail.com**
 
 ---
