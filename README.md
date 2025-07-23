@@ -13,6 +13,7 @@
 🤖 Passionate about **Software development**, **Machine Learning**, **Turning Data into Decisions**, **Full Stack Thinker** and solving complex data problems  
 🛠 Background in **Neural Networks, NLP, AI Algorithms** and real-world software engineering  
 📬 Reach Me: **priyangbhimani01@gmail.com**  
+
 ---
 
 ### 💼 Tech Stack
