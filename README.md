@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyang Bhimani</h1>
-<h3 align="center">Computer Science & AI Student | ML Enthusiast | Full Stack Explorer</h3>
+<h3 align="center">Computer Science & AI Student | ML Enthusiast | Software Craftsman | Aspiring Data Scientist | Full Stack Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyangbhimani01&label=Profile%20views&color=0e75b6&style=flat" alt="priyangbhimani01" />
@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 🎓 Studying **Computer Science & Artificial Intelligence** at Technische Hochschule Ingolstadt, Germany 🇩🇪  
-🤖 Passionate about **Machine Learning**, **Full Stack Development**, and solving complex data problems  
+🤖 Passionate about **Software development**, **Machine Learning**, **Turning Data into Decisions**, **Full Stack Thinker**, and solving complex data problems  
 🛠 Background in **Neural Networks, NLP, AI Algorithms**, and real-world software engineering  
 📬 Reach Me: **priyangbhimani01@gmail.com**  
 🌐 Portfolio Website: _Coming Soon_  
@@ -62,8 +62,8 @@ Sensor fusion system trained on nuScenes dataset. Combined radar + image channel
 - **Data Structures & Algorithms** – Efficient coding & complexity analysis  
 - **AI Algorithms** – Regression, Classification, CNNs, RNNs  
 - **Natural Language Processing** – BoW, TF-IDF, embeddings  
-- **Data Visualization & Processing** – Clustering, Altair, Pandas  
-- **Web Tech & Databases** – RESTful APIs, SQL, MongoDB, Neo4j, Docker  
+- **Data Visualization & Processing** – Clustering, Altair, Pandas, Numpy  
+- **Web Tech & Databases** – RESTful APIs, SQL, MongoDB, Neo4j, Docker, Big data, Apache  
 - **Software Engineering** – UML, Agile, Testing, Versioning
 
 ---
@@ -77,7 +77,7 @@ Sensor fusion system trained on nuScenes dataset. Combined radar + image channel
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/priyang-bhimani-2217b0275)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/priyangbhimani01)  
 📫 Email: **priyangbhimani01@gmail.com**
 
