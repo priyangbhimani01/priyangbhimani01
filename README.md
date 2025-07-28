@@ -46,13 +46,6 @@ Sensor fusion system trained on nuScenes dataset. Combined radar + image channel
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyangbhimani01&show_icons=true&theme=tokyonight" alt="Priyang's GitHub Stats" />
-</p>
-
----
 
 ### 📚 Coursework Highlights
 
