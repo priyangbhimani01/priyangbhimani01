@@ -32,7 +32,7 @@
 #### 🎵 MP3 Player [🔗 GitHub](https://github.com/priyangbhimani01/MP3_Player)
 JavaFX-powered MP3 player with full audio controls, custom GUI, unit testing via JUnit and playlist management.
 
-#### 🛒 Web Shop [🔗 GitHub](https://github.com/priyangbhimani01/WebShop)
+#### 🛒 Web Shop [🔗 GitHub](https://github.com/priyangbhimani01/WebShop_Interface)
 Front-end grocery e-commerce site with real-time cart logic, JavaScript interactivity and dynamic PHP back-end.
 
 #### 📚 Library Management System [🔗 GitHub](https://github.com/priyangbhimani01/SQL_Library_Management_System)
