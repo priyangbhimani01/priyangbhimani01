@@ -67,7 +67,7 @@ Sensor fusion system trained on nuScenes dataset. Combined radar + image channel
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](www.linkedin.com/in/priyang-bhimani-2217b0275)
+[LinkedIn](https://www.linkedin.com/in/priyang-bhimani-2217b0275)
 📫 Email: **priyangbhimani01@gmail.com**
 
 ---
