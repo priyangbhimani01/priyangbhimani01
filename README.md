@@ -35,7 +35,7 @@ JavaFX-powered MP3 player with full audio controls, custom GUI, unit testing via
 #### 🛒 Web Shop [🔗 GitHub](https://github.com/priyangbhimani01/WebShop)
 Front-end grocery e-commerce site with real-time cart logic, JavaScript interactivity and dynamic PHP back-end.
 
-#### 📚 Library Management System [🔗 GitHub](https://github.com/priyangbhimani01/SQL_Library_management)
+#### 📚 Library Management System [🔗 GitHub](https://github.com/priyangbhimani01/SQL_Library_Management_System)
 Full-stack CRUD system using Flask + PostgreSQL + Neo4j + MongoDB. Real-time update logic with Gemini API integration.
 
 #### 🧠 Image Classification [🔗 GitHub](https://github.com/priyangbhimani01/Object_Detection_Prediction.git)
