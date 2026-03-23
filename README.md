@@ -41,11 +41,12 @@ Full-stack CRUD system using Flask + PostgreSQL + Neo4j + MongoDB. Real-time upd
 #### 🧠 Image Classification [🔗 GitHub](https://github.com/priyangbhimani01/Object_Detection_Prediction.git)
 CNN-based classification model using TensorFlow; optimized using dropout, batch norm and backpropagation.
 
+#### 🧠 YouTube Video Chatbot [🔗 GitHub](https://github.com/priyangbhimani01/Youtube_chatbot)
+A streamlit based AI chatbot that lets you chat with the content of any youtube video.
+
 #### 🚘 Radar-Camera Fusion with YOLOv3 *(Coming Soon)*  
 Sensor fusion system trained on nuScenes dataset. Combined radar + image channels using custom YOLO input adaptation.
 
-#### 🧠 YouTube Video Chatbot [🔗 GitHub](https://github.com/priyangbhimani01/Youtube_chatbot)
-A streamlit based AI chatbot that lets you chat with the content of any youtube video.
 
 ---
 
