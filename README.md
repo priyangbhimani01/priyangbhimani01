@@ -45,7 +45,8 @@ CNN-based classification model using TensorFlow; optimized using dropout, batch 
 Sensor fusion system trained on nuScenes dataset. Combined radar + image channels using custom YOLO input adaptation.
 
 #### 🧠 YouTube Video Chatbot [🔗 GitHub](https://github.com/priyangbhimani01/Youtube_chatbot)
-A Streamlit-based AI chatbot that lets you chat with the content of any YouTube video. It extracts the video transcript, processes it using LangChain, stores embeddings in a FAISS vector database, and uses an LLM to answer questions based on the video content.
+A streamlit based AI chatbot that lets you chat with the content of any youtube video.
+
 ---
 
 
